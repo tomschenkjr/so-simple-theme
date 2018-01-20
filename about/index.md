@@ -1,26 +1,16 @@
 ---
 layout: page
-title: About the Jekyll Theme
-excerpt: "So Simple is a responsive Jekyll theme for your words and images."
+title: About
+excerpt:
 modified: 2014-08-08T19:44:38.564948-04:00
 image:
-  feature: so-simple-sample-image-4.jpg
-  credit: WeGraphics
+  feature: schenk-profile-photo.jpg
+  credit: Andrew Collings. 2017.
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
-Looking for a simple, responsive, theme for your Jekyll powered blog? Well look no further. Here be **So Simple Theme**, the follow up to [**Minimal Mistakes**](http://mmistakes.github.io/minimal-mistakes) --- by designer slash illustrator [Michael Rose](http://mademistakes.com).
+Tom Schenk is a researcher and author in a number of fields, including data science, open data, data visualization, and education research and policy. He is currently the Chief Data Officer at the City of Chicago, which includes leadership of the strategic use of data to improve the efficiency of city operations and improve the quality of life for residents. Tom has led the expansion of Chicago’s [open data portal](https://data.cityofchicago.org/), implementation of predictive analytics to optimize city services, and leading the City’s database and business intelligence teams. He leads  Tom has also co-founded and is currently the Chair of the [Civic Analytics Network](http://datasmart.ash.harvard.edu/civic-analytics-network), an association of nearly two-dozen city CDOs, based at [Harvard University’s Ash Center for Democratic Governance and Innovation](http://ash.harvard.edu/).
 
-## So Simple Theme is all about:
+Tom wrote [_Circos Data Visualization How-To_](http://www.packtpub.com/circos-data-visualization/book) and published several academic papers and book chapters. He has previously served as senior research at Northwestern University’s Department of Medical Social Sciences and led institutional effectiveness and accountability at the Iowa Departments of Education. He has led innovative efforts to use student-level longitudinal data to improve and measure education outcomes. He also led science, technology, engineering, and mathematics (STEM) policy in Iowa and was a coauthor of Iowa’s STEM roadmap. Tom was a visiting scholar with Iowa State University’s Office of Community College Research and Policy where he studied graduate-student unionization. He was also a lecturer at Grand View University in economics and statistics. He earned a Master’s degree in economics from Iowa State University and a Bachelor’s from Drake University.
 
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 9+ and all modern browsers.
-* Minimal embellishments and subtle animations.
-* Optional large feature images for posts and pages.
-* [Custom 404 page]({{ site.url }}/404.html) to get you started.
-* [Simple site search](https://github.com/christian-fei/Simple-Jekyll-Search)
-* Support for Disqus Comments
-
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install So Simple Theme</a>
-
-[^1]: Example: *domain.com/category-name/post-title*
+This web page contains links to research, teaching, and tangential interests. The views expressed on Tom’s website do not necessarily represent the view of the City of Chicago.
