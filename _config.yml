@@ -1,9 +1,9 @@
 # Site wide configuration
 
-title: Site Title
+title: Data, etc.
 locale: en_US
-description: Describe your website here.
-logo: site-logo.png
+description: The nuts and bolts from research to policy in social sciences.
+logo: #site-logo.png
 search: true
 url: http://localhost:4000
 
@@ -15,7 +15,7 @@ highlighter: rouge
 sass:
   sass_dir: _sass
   style: compressed
-gems:
+plugins:
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
@@ -36,13 +36,13 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 
 # Site owner
 owner:
-  name: Your Name
+  name: Tom Schenk Jr.
   avatar: bio-photo.jpg
-  email: you@email.com
+  email: tomschenkjr@gmail.com
   disqus-shortname:
-  twitter: #username
+  twitter: tomschenkjr
   facebook: #username
-  github: #username
+  github: tomschenkjr
   stackexchange: #http://stackoverflow.com/users/123456/username
   linkedin: #username
   instagram: #username
