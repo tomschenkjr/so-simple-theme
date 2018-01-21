@@ -1,5 +1,14 @@
 # Site navigation links
 
+- title: Home
+  url: /
+
+- title: Blog
+  url: /blog/
+
+- title: Research
+  url: /research/
+
 - title: About
   url: /about/
 
@@ -8,12 +17,6 @@
 
 - title: Articles
   url: /articles/
-
-- title: Blog
-  url: /blog/
-
-- title: Research
-  url: /research/
 
 - title: Contact
   url: /contact/
