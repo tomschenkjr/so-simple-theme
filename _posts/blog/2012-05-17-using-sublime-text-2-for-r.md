@@ -16,7 +16,7 @@ comments: true
 	<figcaption>Running R within Sublime Text 2</figcaption>
 </figure>
 
-My R interface has been pretty basic in the last few years. I have usually stuck to the R console. Yes, I've tried [Emacs](http://www.gnu.org/software/emacs/) with [ESS](http://ess.r-project.org/); a staple, but it is so unbearably antiquated that I always gave up on its significant learning curve. GUI packages--especially [Rstudio](http://www.rstudio.org/)--offer viable alternatives, but I feel the GUI lets me lose focus of the code. I have been envious of TextMate for Mac, but alas, I'm not a Mac user. Recently, though, I've moved to [Sublime Text 2](http://www.sublimetext.com/2). With some nudging, I have been able to mimic the typical R console environment in the more-powerful Sublime Text program. 
+My R interface has been pretty basic in the last few years. I have usually stuck to the R console. Yes, I've tried [Emacs](http://www.gnu.org/software/emacs/) with [ESS](http://ess.r-project.org/); a staple, but it is so unbearably antiquated that I always gave up on its significant learning curve. GUI packages--especially [Rstudio](http://www.rstudio.org/)--offer viable alternatives, but I feel the GUI lets me lose focus of the code[^1]. I have been envious of TextMate for Mac, but alas, I'm not a Mac user. Recently, though, I've moved to [Sublime Text 2](http://www.sublimetext.com/2). With some nudging, I have been able to mimic the typical R console environment in the more-powerful Sublime Text program. 
 
 > Want to skip to the basic instructions without the narrative? Just read the block quotes for specific instructions.
 
@@ -144,3 +144,7 @@ Besides R, Sublime Text can also handle other programming/scripting language. It
 ## **Credits**
 
 This is a tutorial that combines the work of others. This tutorial is just making gumbo from the recipes of others. In particular, [Wojciech Bederski](http://wuub.net/), who wrote the SublimeREPL package, which is key. _Update_: Wojciech also wanted to give props to hootener, who really supported the Windows R implementation for REPL.  [Mads Hartmann Jensen](http://mads379.github.com/) [wrote](https://github.com/mads379/SublimeREPL/commit/1d1527b63fc9abd86ca3bb23dad29dd2604984ac) added the R support in REPL.  Obviously, the Sublime folks have put together a...uh...sublime program.
+
+## Epilogue
+
+[^1]: Since writing this, I've entirely switched my workflow to RStudio. It's development capabilities are fantastic. Nevertheless, Sublime Text 2 has much more advanced editing functionality.
