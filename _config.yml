@@ -5,7 +5,7 @@ locale: en_US
 description: The nuts and bolts from research to policy in social sciences.
 logo: #site-logo.png
 search: true
-url: http://localhost:4000
+url: http://tomschenkjr.github.io
 
 # Jekyll configuration
 
