@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Visualizing Transitions from Education to Industries
-excerpt: "Just about everything you'll need to style in the theme: headings, paragraphs, blockquotes, tables, code blocks, and more."
+excerpt: "Accountability of career-focused community college programs by measuring the link between programs to their industry employment of former students."
 modified: 2009-11-01T14:17:25-04:00
 author: tom_schenk
 categories: research

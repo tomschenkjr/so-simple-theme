@@ -1,15 +1,15 @@
 ---
 layout: post
 title: Food Inspections
-excerpt: "Just about everything you'll need to style in the theme: headings, paragraphs, blockquotes, tables, code blocks, and more."
+excerpt: "Predicting which restaurants will fail food inspections; dispatching inspectors to get ahead of the problem."
 modified:
 author: tom_schenk
 categories: research
 tags: [urban sciences, predictive analytics, public health]
 image:
-  feature: visualizing-transitions-poster-preview.png
-  credit: Tom Schenk Jr.
-  creditlink: #http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+  feature: 
+  credit: 
+  creditlink: 
 comments: true
 share: true
 ---
