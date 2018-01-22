@@ -1,0 +1,43 @@
+<!doctype html>
+<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8" lang="en"><![endif]-->
+<!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9" lang="en"><![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
+<head>
+{% include head.html %}
+</head>
+
+<body id="page">
+
+{% include navigation.html %}
+
+<div id="main" role="main">
+  <!-- <article class="entry"> -->
+    <div class="entry-wrapper">
+      <header class="entry-header">
+        <h1 class="entry-title">{{ page.title }}</h1>
+      </header>
+      <div class="entry-content">
+        
+        {{ content }}
+        <br />
+      </div><!-- /.entry-content -->
+    
+    <div class="footer-wrapper">
+      <div role="contentinfo" class="entry-wrapper">
+        <div class="social-icons">
+
+          {% include social-icons.html %}
+
+        </div><!-- /.social-icons -->
+      </div><!-- /.entry-wrapper -->
+    </div><!-- /.footer-wrapper -->
+  <!-- </article> -->
+</div><!-- /#main -->
+
+
+
+{% include scripts.html %}
+
+</body>
+</html>
