@@ -188,7 +188,7 @@ table {
 // --------------------------------------------------
 
 blockquote {
-	font-family: $alt-font;
+	font-family: $caption-font;
 	font-style: italic;
 	@include font-size(16);
 	padding-left: 20px;
