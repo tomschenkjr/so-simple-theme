@@ -20,7 +20,10 @@
         <h1 class="entry-title">{% if page.headline %}{{ page.headline }}{% else %}{{ page.title }}{% endif %}</h1>
       </header>
       <div class="entry-content">
-        {{ content | markdownify | strip_html | truncatewords: 50 }}
+        {{ post.title }}
+      </div>
+      <div class="entry-content">
+        {{ post.content | markdownify | strip_html | truncatewords: 50 }}
       </div><!-- /.entry-content -->
     </div><!-- /.entry-wrapper -->
   </article>
